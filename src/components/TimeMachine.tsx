@@ -58,7 +58,7 @@ async function fetchMarineForecast(): Promise<WeatherForecast[]> {
   if (!res.ok) throw new Error('Weather API error');
   const data = await res.json();
   const hours = data.hourly;
-  return hours.time.map((t: string, i: number) => ({
+  return hours.time.map((_: string, i: number) => ({
     hour: i,
     waveHeight: hours.wave_height[i] ?? 0,
     windSpeed: hours.wind_wave_height[i] ?? 0,

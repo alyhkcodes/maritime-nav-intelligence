@@ -83,7 +83,6 @@ function RiskGauge({ score, color }: { score: number; color: string }) {
   const r = 28;
   const circ = 2 * Math.PI * r;
   const pct = score / 100;
-  const offset = circ * (1 - pct * 0.75); // 3/4 circle arc
   const startAngle = 135; // degrees
 
   return (

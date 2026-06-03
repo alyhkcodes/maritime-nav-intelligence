@@ -1,4 +1,4 @@
-import { useRef, useState, ReactNode } from 'react';
+import { useRef, useState, type ReactNode } from 'react';
 
 type Accent = 'blue' | 'cyan' | 'green' | 'amber' | 'red';
 

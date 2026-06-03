@@ -1,8 +1,4 @@
 import type { Point } from '../types/geo';
-export type Point = {
-  lat: number;
-  lon: number;
-};
 
 export function interpolate(start: Point, end: Point, t: number): Point {
   return {

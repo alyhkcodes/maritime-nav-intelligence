@@ -1,73 +1,77 @@
-# React + TypeScript + Vite
+🌊 Maritime Intelligence System
+Weather-Aware Voyage Optimization Using AIS & Economic Modeling
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📘 Overview
 
-Currently, two official plugins are available:
+The Maritime Intelligence System is a real-time maritime decision intelligence platform that integrates AIS vessel tracking, weather forecasting, physics-based vessel modeling, and economic cost analysis.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+It helps optimize voyage planning by predicting:
 
-## React Compiler
+Weather impact on vessel speed
+Fuel consumption variations
+Laycan (cargo window) risk
+Optimal route selection
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚢 Live Demo
+👉 https://maritime-nav-intelligence.vercel.app/
 
-## Expanding the ESLint configuration
+⚙️ Features
+🌍 Real-time AIS vessel tracking
+🌦️ Weather overlay on route map
+🚢 Speed impact simulation (STW vs SOG)
+⛽ Fuel and cost optimization engine
+⚠️ Laycan risk detection system
+🔁 Route comparison (Suez vs Cape)
+🧠 Problem Statement
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Current maritime systems fail to integrate:
+Weather + vessel performance
+Fuel consumption + cost
+Route planning + contract constraints
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+This project solves this by combining all into a single intelligence system.
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+🏗️ Tech Stack
+React + Vite
+TypeScript
+Vercel Deployment
+GitHub
+AIS API Integration
+Map Visualization
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+📊 Core Modules
+1. AIS Tracking
+Real-time vessel movement monitoring.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+2. Weather Engine
+Wind, waves, and current impact visualization.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+3. Physics Engine
+Converts STW → SOG based on resistance.
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+4. Fuel Engine
+Calculates fuel consumption and cost changes.
+
+5. Laycan Engine
+Checks arrival time vs cargo window risk.
+
+📈 Impact
+Reduced fuel consumption
+Improved ETA accuracy
+Better route optimization
+Lower operational risk
+
+🚀 Deployment
+Live App: Vercel
+Code: GitHub
+System Type: Real-time web intelligence platform
+
+🧠 Conclusion
+This system transforms maritime navigation into a predictive, data-driven decision intelligence platform.
+
+👨‍💻 Author
+
+Aly Husain Khan
+
+🔒 Note
+Developed for IME Innovation Project (TBI-GEU Ecosystem)

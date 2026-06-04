@@ -82,10 +82,12 @@ This system transforms maritime navigation into a predictive, data-driven decisi
 Aly Husain Khan
 
 🔒 Note
-Developed for IME Innovation Project (TBI-GEU Ecosystem)<img width="1919" height="1082" alt="Screenshot 2026-06-04 095400" src="https://github.com/user-attachments/assets/af3fb4c4-27e1-4272-8752-bf3f481eb288" />
-<img width="1919" height="1079" alt="Screenshot 2026-06-04 095350" src="https://github.com/user-attachments/assets/1e54c4a8-9b3e-421d-b369-8118dc3ae9f8" />
-<img width="1919" height="1073" alt="Screenshot 2026-06-04 095338" src="https://github.com/user-attachments/assets/1cf4d848-c37f-4b70-90b8-405ce2df0c58" />
-<img width="1918" height="1079" alt="Screenshot 2026-06-04 095256" src="https://github.com/user-attachments/assets/c17852dc-dcb9-472a-9eff-35665dffe6cc" />
-<img width="1919" height="1083" alt="Screenshot 2026-06-04 095243" src="https://github.com/user-attachments/assets/24ebc7b0-8e28-4085-805c-d6911f092f80" />
-<img width="1919" height="1082" alt="Screenshot 2026-06-04 095230" src="https://github.com/user-attachments/assets/7c1fdc88-e084-4926-981e-d5d116115fe7" />
-<img width="1919" height="1087" alt="Screenshot 2026-06-04 095206" src="https://github.com/user-attachments/assets/2b1a53d7-24e6-4674-bf42-96dbaf1552a4" />
+Developed for IME Innovation Project (TBI-GEU Ecosystem)
+
+<img width="1919" height="1087" alt="Screenshot 2026-06-04 095206" src="https://github.com/user-attachments/assets/2275a658-58d5-4219-a2fb-477129db7947" />
+<img width="1919" height="1082" alt="Screenshot 2026-06-04 095230" src="https://github.com/user-attachments/assets/e72e9bd1-dfc1-4804-93d5-231df44bfe56" />
+<img width="1919" height="1083" alt="Screenshot 2026-06-04 095243" src="https://github.com/user-attachments/assets/a5424a34-93ca-488f-bb4a-70c96657a859" />
+<img width="1918" height="1079" alt="Screenshot 2026-06-04 095256" src="https://github.com/user-attachments/assets/bd27c8fa-56f5-4951-80ca-4126de983ff4" />
+<img width="1919" height="1073" alt="Screenshot 2026-06-04 095338" src="https://github.com/user-attachments/assets/add480f0-55aa-4973-9892-6ccfb7dd0ba7" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-04 095350" src="https://github.com/user-attachments/assets/a6ab1ad7-a357-420f-8a8a-582596364e13" />
+<img width="1919" height="1082" alt="Screenshot 2026-06-04 095400" src="https://github.com/user-attachments/assets/6cb32dfa-9ae2-4bec-badb-0764b0d49126" />

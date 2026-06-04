@@ -5,11 +5,17 @@ A real-time maritime intelligence system that predicts how weather affects vesse
 Weather-Aware Voyage Optimization Using AIS & Economic Modeling
 
 📘 Overview
-
 The Maritime Intelligence System is a real-time maritime decision intelligence platform that integrates AIS vessel tracking, weather forecasting, physics-based vessel modeling, and economic cost analysis.
 
-It helps optimize voyage planning by predicting:
+## ⚡ Key Innovation
+Unlike traditional maritime tools, this system:
+- Connects weather directly to vessel performance
+- Simulates real-world speed loss (STW → SOG)
+- Dynamically calculates fuel cost impact
+- Predicts laycan risk before it happens
+- Compares multiple route strategies in real time
 
+It helps optimize voyage planning by predicting:
 Weather impact on vessel speed
 Fuel consumption variations
 Laycan (cargo window) risk
@@ -73,7 +79,6 @@ System Type: Real-time web intelligence platform
 This system transforms maritime navigation into a predictive, data-driven decision intelligence platform.
 
 👨‍💻 Author
-
 Aly Husain Khan
 
 🔒 Note

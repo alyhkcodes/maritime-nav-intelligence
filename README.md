@@ -1,3 +1,6 @@
+## 🚀 One-Line Impact
+A real-time maritime intelligence system that predicts how weather affects vessel speed, fuel cost, ETA, and laycan compliance — enabling optimal voyage decisions in seconds.
+
 🌊 Maritime Intelligence System
 Weather-Aware Voyage Optimization Using AIS & Economic Modeling
 
